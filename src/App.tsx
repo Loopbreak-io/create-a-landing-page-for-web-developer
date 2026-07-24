@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Stats from './components/Stats';
@@ -9,6 +9,10 @@ import CTA from './components/CTA';
 import Footer from './components/Footer';
 
 export default function App() {
+  useEffect(() => {
+    document.title = 'MAKESITE.DEV';
+  }, []);
+
   return (
     <div
       style={{
