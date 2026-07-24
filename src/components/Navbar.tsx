@@ -68,7 +68,7 @@ export default function Navbar() {
               letterSpacing: '-0.02em',
             }}
           >
-            SITE<span style={{ color: 'var(--accent)' }}>.dev</span>
+            MAKESITE<span style={{ color: 'var(--accent)' }}>.dev</span>
           </span>
         </div>
 

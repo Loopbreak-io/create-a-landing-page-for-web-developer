@@ -79,7 +79,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span style={{ fontFamily: 'var(--font-display)', fontSize: '19px', fontWeight: 700 }}>
-                SITE<span style={{ color: 'var(--accent)' }}>.dev</span>
+                MAKESITE<span style={{ color: 'var(--accent)' }}>.dev</span>
               </span>
             </div>
             <p style={{ fontSize: '14px', lineHeight: 1.65, color: 'var(--muted)', maxWidth: '280px', margin: '0 0 20px' }}>
@@ -166,7 +166,7 @@ export default function Footer() {
           }}
         >
           <div style={{ fontSize: '13px', color: 'var(--muted-dim)' }}>
-            © {year} SITE.dev — Crafted with care and clean code.
+            © {year} MAKESITE.dev — Crafted with care and clean code.
           </div>
           <div style={{ fontSize: '13px', color: 'var(--muted-dim)' }}>
             Available for freelance & contract work
